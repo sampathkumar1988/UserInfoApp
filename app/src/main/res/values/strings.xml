@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UserInfoApp</string>
+    <string name="retry">Retry</string>
+    <string name="userinfo_error">An error occurred while loading the user infos</string>
+    <string name="photos_error">An error occurred while loading the photod</string>
+    <string name="user_id">ID : %s</string>
+    <string name="user_name">Name : %s</string>
+    <string name="user_phone">Phone : %s</string>
+    <string name="user_email">Email : %s</string>
+    <string name="user_info_title">User Info</string>
+    <string name="album_title">Album ID : %d</string>
+</resources>
